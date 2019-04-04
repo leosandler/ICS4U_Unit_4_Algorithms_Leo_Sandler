@@ -65,3 +65,6 @@ number_q.enqueue(3)
 number_q.enqueue(8011)
 number_q.dequeue()
 print(number_q.data)  # Proves FIRST IN, FIRST OUT
+
+
+# Peeking could be done by including a returned version of the current lis.
