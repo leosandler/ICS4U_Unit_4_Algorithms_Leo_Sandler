@@ -67,4 +67,4 @@ number_q.dequeue()
 print(number_q.data)  # Proves FIRST IN, FIRST OUT
 
 
-# Peeking could be done by including a returned version of the current lis.
+# Peeking could be done by including a returned version of the current list.
